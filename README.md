@@ -1,4 +1,4 @@
-# AttributeBasedStorageSupportingSecureDeduplicationofEncryptedDataInCloud
+# Attribute Based Storage Supporting Secure Deduplication of Encrypted Data In Cloud
 
 
 Refer to the pesentation added in the files section for further details - ABS.ppt
